@@ -101,7 +101,6 @@ The assistant adheres to strict guidelines to ensure reliability and professiona
 
 - **Document-Based Responses**: Answers are generated exclusively from the provided MSAIS documents, preventing speculation or external data use.
 - **Citation of Sources**: When links or contact details (e.g., email addresses, phone numbers) are present in the documents, they are included in responses for user convenience.
-- **Fallback Guidance**: If a query cannot be answered due to missing data, the assistant directs users to official UF resources, such as [ai.ufl.edu](https://ai.ufl.edu).
 - **Professional Tone**: Responses are clear, courteous, and tailored for students, faculty, and staff, fostering an approachable yet authoritative interaction.
 
 ## Security
