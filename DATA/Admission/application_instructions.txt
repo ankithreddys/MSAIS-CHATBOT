@@ -1,0 +1,13 @@
+=== Application Instructions ===
+
+All graduate students apply using the UF graduate school application through CollegeNET. You must select the college and degree within the application.
+Complete the application and pay the non-refundable application fee
+1
+. Review your application carefully before submission, as changes cannot be made once the application is submitted.
+The Office of Admissions does not provide an application fee waiver. Additionally, if your application is not considered because the application deadline is passed, UF will not issue you a refund for the application fee.
+
+- College: Herbert Wertheim College of Engineering
+- Degree: Artificial Intelligence Systems (AIS_MS)
+
+Apply Now: https://www.applyweb.com/uflgrad/index.ftl
+Fee Waiver Info: https://msais.eng.ufl.edu/application-fee-waiver/

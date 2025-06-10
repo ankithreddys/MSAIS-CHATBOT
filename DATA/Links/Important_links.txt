@@ -1,0 +1,96 @@
+Links for Webpages (Important)
+
+About_url : https://msais.eng.ufl.edu/about/
+About the Program_url : https://msais.eng.ufl.edu/about-the-program/
+Why This Program?_url : https://msais.eng.ufl.edu/why-this-program/
+Frequently Asked Questions_url : https://msais.eng.ufl.edu/frequentlyaskedquestions/
+People_url : https://msais.eng.ufl.edu/people/
+Administration_url : https://msais.eng.ufl.edu/administration/
+Faculty_url : https://msais.eng.ufl.edu/faculty/
+Staff_url : https://msais.eng.ufl.edu/staff/
+Curriculum Committee_url : https://msais.eng.ufl.edu/curriculum-committee/
+Admission_url : https://msais.eng.ufl.edu/admission/
+Admission Requirements & Deadlines_url : https://msais.eng.ufl.edu/admission-requirements-deadlines/
+Preparing Your Packet_url : https://msais.eng.ufl.edu/preparing-your-packet/
+Application Fee Waiver_url : https://msais.eng.ufl.edu/application-fee-waiver/
+English Proficiency Test_url : https://msais.eng.ufl.edu/english-proficiency-test/
+Financial Information_url : https://msais.eng.ufl.edu/financial-information/
+Apply_url : https://msais.eng.ufl.edu/apply/
+Academics_url : https://msais.eng.ufl.edu/academics/
+Academic Policies_url : https://msais.eng.ufl.edu/academic-policies/
+Curriculum_url : https://msais.eng.ufl.edu/curriculum/
+Tuition & Fees_url : https://www.sfa.ufl.edu/cost/graduate-costs/#new_tab
+Student Resources_url : https://msais.eng.ufl.edu/student-resources/
+New Student Orientation_url : https://msais.eng.ufl.edu/new-student-orientation/
+Financial Information_url : https://msais.eng.ufl.edu/financial-information/
+International Students_url : https://graduateschool.ufl.edu/gss/international/#new_tab
+Veteran Support_url : https://graduateschool.ufl.edu/gss/veteran/#new_tab
+Disability Support_url : https://graduateschool.ufl.edu/gss/disability/#new_tab
+Student Involvement_url : https://graduateschool.ufl.edu/gss/si/#new_tab
+Recreation_url : https://graduateschool.ufl.edu/gss/recreation/#new_tab
+Self-Care & Wellness_url : https://graduateschool.ufl.edu/gss/wellness/#new_tab
+Research_url : https://msais.eng.ufl.edu/research/
+M.S. in Applied Data Science_url : https://msads.eng.ufl.edu/#new_tab
+
+
+# About the Program Links
+Admission Requirements : https://msais.eng.ufl.edu/admission-requirements-deadlines/
+Apply Now : https://msais.eng.ufl.edu/preparing-your-packet/
+
+
+AI Research Experts : https://www.eng.ufl.edu/research/ai-experts/
+Tution Fee : https://www.sfa.ufl.edu/cost/graduate-costs/
+
+
+
+Application fee waiver : https://www.eng.ufl.edu/graduate/mswaiver/
+Application fee waiver : https://www.eng.ufl.edu/graduate/prospects/masters-prospects/
+
+English Proficiency Requirement ( TOEFL / IELTS ) : https://www.eng.ufl.edu/graduate/prospects/masters-admission/
+
+
+
+
+# From: Financial Information
+http://www.sfa.ufl.edu/
+https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=student%20ast&work-type=temp%20part-time&job-mail-subscribe-privacy=agree
+https://floridagators.com/sports/2015/12/10/_employment_.aspx
+https://www.eng.ufl.edu/graduate/prospects/masters-degree-programs/mastersoffer/academic-achievement-award/
+
+# From: application_instructions
+application fee waiver : https://msais.eng.ufl.edu/application-fee-waiver/
+Apply url : https://www.applyweb.com/uflgrad/index.ftl
+
+# From: academic_policies
+http://msais.eng.ufl.edu/staff/
+https://msais.eng.ufl.edu/staff/
+Student portal Academics : https://one.uf.edu/
+
+# From: degree_curriculum
+ABE 6005 Applied Control for Automation and Robotics (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/ABE-6005-Applied-Control-for-Automation-and-Robotics.pdf
+BME 6928 Biomedical Data Science (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/BME6938-Syllabus-Biomedical-Data-Science-Rashidi-3.pdf
+CAP 5108 Research Methods for Human Centered Computing (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/CAP-5108-Research-Methods-for-Human-Centered-Computing.pdf
+CAP 6617 Advanced Machine Learning (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/CAP-6617-Advanced-Machine-Learning-CAP6610.pdf
+CAP 5416 Computer Vision (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/CAP5416_Computer-Vision.pdf
+CAP 6615 Neural Networks for Computing : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/CAP6615_Neural-Networks-for-Computing.pdf
+CEN 5726 Natural User Interaction (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/CEN-5726-Natural-User-Interaction.pdf
+https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/CIS6939-Pricavy-and-Machine-Learning.pdf
+EEE 6504 Machine Learning for Time Series (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EEE-6504-Machine-Learning-Time-Series.pdf
+EEE 6512 Image Processing and Computer Vision (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EEE6512_Img_Proc_Comp_Vision.pdf
+EEE 6561 Fundamentals of Biometric Identification (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EEE_6561_Fundamentals-of-Biometric-Identification.pdf
+EEL 6814 Neural Networks and Deep Learning (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EEL-6814-Neural-Networks-and-Deep-Learning.pdf
+EEL 6825 Pattern Recognition and Intelligent Systems (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EEL-6825-Pattern-Recognition-and-Intelligent-Systems.pdf
+EEL 5406 Computational Photography (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EEL5406_Computational-Photography.pdf
+EEL 5739 IoT Security and Privacy (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EEL5739_IoT-Security-and-Privacy.pdf
+EEL 5840 Fundamentals of Machine Learning (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EEL5840-Spring2024_Fundamentals-of-Machine-Learning-.pdf
+EGN 6216 Artificial Intelligent Systems (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EGN-6216-Artificial-Intelligence-Systems.pdf
+EGN 6217 Applied Deep Learning (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EGN-6217-Applied-Deep-Learning-.pdf
+EGN 5216 Machine Learning for AI Systems (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EGN5216-Machine-Learning-for-AI-Systems.pdf
+CAI 6826 Project in AI Systems (Non-Thesis Project) (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EGN6933-Project-in-Artificial-Intelligence-Systems.pdf
+EML 6351 Adaptive Control (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/EML-6351-Adaptive-Control.pdf
+ESI 6355 Decision Support Systems for ISE (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/ESI6355_Syllabus_Spring_2018.pdf
+ESI 6492 Global Optimization (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/ESI_6492_Global_Optimization.pdf
+EGN 6933 AI Ethics for Tech Leaders (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/LAW-6930-Ethics-in-AI.pdf
+STA 6703 Statistical Machine Learning (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/08/STA6703.ECE5934-Bliznyuk.Fall_.2022-Nikolay-Bliznyuk.pdf
+EGN 6933 AI Ethics for Tech Leaders (3 credits) : https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2024/11/AI-Ethics-for-Technology-Leaders-EGN6933_AITL_29530-Fall-2024-.pdf
+https://msais.eng.ufl.edu/wp-content/uploads/sites/183/2025/04/AIS_curriculum_B-1.png

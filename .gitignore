@@ -1,0 +1,6 @@
+venv/
+.env
+.vscode/
+.gradio/
+__pycache__/
+vector_db_faiss/

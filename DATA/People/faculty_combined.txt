@@ -1,0 +1,58 @@
+=== Faculty Visual Navigation ===
+
+Name/Role: Catia Silva, Chair
+Primary Research Area: Signals and Systems
+Profile URL: https://www.ece.ufl.edu/people/faculty/catia-silva/
+
+Name/Role: Ivan Ruchkin, ECE
+Primary Research Area: Computer Engineering
+Profile URL: https://www.ece.ufl.edu/people/faculty/ivan-ruchkin/
+
+Name/Role: Sonja Schmer-Galunder, CISE
+Primary Research Area: Human-Centered Computing
+Profile URL: https://www.cise.ufl.edu/sonja-schmer-galunder/
+
+Name/Role: Richard Hennig, MSE
+Primary Research Area: Quantum Theory Project
+Profile URL: https://mse.ufl.edu/people/faculty/name/richard-hennig/
+
+Name/Role: Arthriya Subgranon, ESSIE
+Primary Research Area: Quantum Theory Project
+Profile URL: https://essie.ufl.edu/people/name/arthriya-subgranon/
+
+Name/Role: Kuang Gong, BME
+Primary Research Area: Deep learning
+Profile URL: https://bme.ufl.edu/dept-member/kuang-gong/
+
+Name/Role: Sumant Patankar, CHE
+Primary Research Area: Kuang Gong, BME
+Profile URL: https://che.ufl.edu/people/faculty/name/sumant-patankar/
+
+Name/Role: Andrea Ramirez Salgado, EEd
+Primary Research Area: artificial intelligence, data science
+Profile URL: https://ailearning.ai.ufl.edu/staff/andrea-ramirez-salgado/andrea-ramirez-salgado-.html
+
+Name/Role: Laura Cruz Castro, EEd
+Primary Research Area: Foundational AI, Applied AI and data analytics
+Profile URL: https://www.eng.ufl.edu/about/contact/college-directory/name/laura-cruz-castro/
+
+Name/Role: Jeremiah Blanchard, EEd
+Primary Research Area: 
+Profile URL: https://eed.eng.ufl.edu/research-to-teaching-practice-in-engineering/name/jeremiah-blanchard/
+
+Name/Role: Yu Wang, MAE
+Primary Research Area: 
+Profile URL: https://mae.ufl.edu/people/name/yu-wang/
+
+Name/Role: Nikolay Bliznyuk, ABE
+Primary Research Area: 
+Profile URL: https://abe.ufl.edu/people/faculty/nikolay-bliznyuk/
+
+=== Academic Advisor and Representatives ===
+
+Academic Advisor/s : Lisa Hibbs
+
+AIS Student Representative : Nikhil Reddy Sareddy
+
+ADS Student Representative::
+

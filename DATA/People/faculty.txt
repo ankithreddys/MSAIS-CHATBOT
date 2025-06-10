@@ -1,0 +1,83 @@
+Faculty
+
+Intro:
+The AI Systems faculty consists of members from multiple departments within the Herbert Wertheim College of Engineering. Each faculty member teaches one or more courses within the program curriculum.
+
+Faculty List:
+
+Name: Nikolay Bliznyuk
+Department: Department of Agricultural and Biological Engineering (ABE)
+Profile URL: https://abe.ufl.edu/people/faculty/nikolay-bliznyuk/
+
+Name: Emmanuel J. Dorley
+Department: Department of Computer & Information Systems & Engineering (CISE)
+Profile URL: https://www.cise.ufl.edu/emmanuel-j-dorley/
+
+Name: Philip Feng
+Department: Department of Electrical & Computer Engineering (ECE)
+Profile URL: https://www.ece.ufl.edu/people/faculty/philip-feng/
+
+Name: José Fortes
+Department: Department of Electrical & Computer Engineering (ECE)
+Profile URL: https://www.ece.ufl.edu/people/faculty/jose-fortes/
+
+Name: Tamer Kahveci
+Department: Department of Computer & Information Systems & Engineering (CISE)
+Profile URL: https://www.cise.ufl.edu/kahveci-tamer/
+
+Name: Rushikesh Kamalapurkar
+Department: Department of Mechanical & Aerospace Engineering (MAE)
+Profile URL: https://mae.ufl.edu/people/name/rushikesh-kamalapurkar/
+
+Name: Nam-Ho Kim
+Department: Department of Mechanical & Aerospace Engineering (MAE)
+Profile URL: https://mae.ufl.edu/people/name/nam-ho-kim/
+
+Name: Sanjeev J. Koppal
+Department: Department of Electrical & Computer Engineering (ECE)
+Profile URL: https://www.ece.ufl.edu/people/faculty/sanjeev-j-koppal/
+
+Name: Edward Latorre-Navarro
+Department: Department of Engineering Education (EEd)
+Profile URL: https://eed.eng.ufl.edu/faculty/name/edward-latorre-navarro/
+
+Name: Changying “Charlie” Li
+Department: Department of Agricultural and Biological Engineering (ABE)
+Profile URL: https://abe.ufl.edu/people/faculty/li-changying/
+
+Name: Andrea Ramirez-Salgado
+Department: Department of Engineering Education (EEd)
+Profile URL: https://ailearning.ai.ufl.edu/staff/andrea-ramirez-salgado/andrea-ramirez-salgado-.html
+
+Name: Ivan Ruchkin
+Department: Department of Electrical & Computer Engineering (ECE)
+Profile URL: https://www.ece.ufl.edu/people/faculty/ivan-ruchkin/
+
+Name: Jaime Ruiz
+Department: Department of Computer & Information Systems & Engineering (CISE)
+Profile URL: https://www.cise.ufl.edu/ruiz-jaime/
+
+Name: Sonja Schmer-Galunder
+Department: Department of Computer & Information Systems & Engineering (CISE)
+Profile URL: https://www.cise.ufl.edu/sonja-schmer-galunder/
+
+Name: Catia S. Silva
+Department: Department of Electrical & Computer Engineering (ECE)
+Profile URL: https://www.ece.ufl.edu/people/faculty/catia-silva/
+
+Name: Baba Vemuri
+Department: Department of Computer & Information Systems & Engineering (CISE)
+Profile URL: https://www.cise.ufl.edu/vemuri-baba/
+
+Name: Shuo Wang
+Department: Department of Electrical & Computer Engineering (ECE)
+Profile URL: https://www.ece.ufl.edu/people/faculty/shuo-wang/
+
+Name: Yu Wang
+Department: Department of Mechanical & Aerospace Engineering (MAE)
+Profile URL: https://mae.ufl.edu/people/name/yu-wang/
+
+Name: Damon L. Woodard
+Department: Department of Electrical & Computer Engineering (ECE)
+Profile URL: https://www.ece.ufl.edu/people/faculty/damon-woodard/
+

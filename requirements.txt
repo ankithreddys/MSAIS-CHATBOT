@@ -1,0 +1,7 @@
+scrapy
+langchain-huggingface
+sentence-transformers 
+langchain-community
+faiss-cpu
+gradio
+langchain-openai
